@@ -1,3 +1,16 @@
 Data/
 .ipynb_checkpoints/
 dgl_(07.01.23)/
+Correct_And_Smooth_Food_101/Best_model.pickle
+Correct_And_Smooth_Food_101/Data_ResNet50_Food.pickle
+Correct_And_Smooth_Food_101/food-101/
+Correct_And_Smooth_Food_101/Graph_ResNet50_Food.pickle
+Correct_And_Smooth_Food_101/My_ResNet50_Food.pickle
+Correct_And_Smooth_OGB_arxiv/dataset/
+Correct_And_Smooth_OGB_Products/dataset/
+Data_ResNet50_Food.pickle
+EfficientNet_CIFAR_10_Embeddings.pickle
+Emb_graph.pickle
+graphsage_PNC_CNS/dataset/
+Hyper_Tune_Trans_Learn_CIFAR_10/CIFAR_10/
+Hyper_Tune_Trans_Learn_CIFAR_10/EfficientNet_CIFAR_10_Embeddings.pickle
